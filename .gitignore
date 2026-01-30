@@ -1,0 +1,3 @@
+target/
+trajectory.csv
+**/*.rs.bk
